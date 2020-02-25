@@ -2154,8 +2154,8 @@
     {
       "ParentBvDID": "ZZ*J00M*27043",
       "ChildBvDID": "US149204549L",
-      "DirectPercentage": "100.00%", x
-      "TotalPercentage": "100.00%", x
+      "DirectPercentage": "100.00%", 
+      "TotalPercentage": "100.00%",
       "InformationSource": "WW",
       "InformationDate": "31/12/2011",
       "ControllingShareholderPath": false
