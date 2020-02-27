@@ -1,0 +1,132 @@
+{
+  "links": [
+
+  ],
+  "name": "items",
+  "start": 0,
+  "count": 2,
+  "items": [
+    {
+      "full_name": "FINBES - SOCIETA' A RESPONSABILITA' LIMITATA - IN FORMA ABBREVIA TA FINBES S.R.L.",
+      "bvdid": "IT04295050282",
+      "uci": "",
+      "country": "IT",
+      "city": "PADOVA",
+      "type": "Corporate",
+      "direct": "49.50",
+      "total": "n.a.",
+      "world_compliance": "No"
+    },
+    {
+      "full_name": "MR RICCADONNA OTTAVIO",
+      "bvdid": "ITPPRCCTTV38M14L219U",
+      "uci": "P070278838",
+      "country": "IT",
+      "city": "CANELLI",
+      "type": "One or more named individuals or families",
+      "direct": "9.80",
+      "total": "n.a.",
+      "world_compliance": "No"
+    },
+    {
+      "full_name": "CO.GEN.FI. SOCIETA' A RESPONSABILITA' LIMITATA",
+      "bvdid": "IT07580750581",
+      "uci": "",
+      "country": "IT",
+      "city": "ROMA",
+      "type": "Corporate",
+      "direct": "9.00",
+      "total": "n.a.",
+      "world_compliance": "No"
+    },
+    {
+      "full_name": "MR ENRICO ZANIN",
+      "bvdid": "ITPPZNNNRC61L28C957J",
+      "uci": "P081469408",
+      "country": "IT",
+      "city": "TREVISO",
+      "type": "One or more named individuals or families",
+      "direct": "6.50",
+      "total": "n.a.",
+      "world_compliance": "No"
+    },
+    {
+      "full_name": "MR ENRICO RAENGO",
+      "bvdid": "ITPPRNGNRC61C16G888S",
+      "uci": "P007325575",
+      "country": "IT",
+      "city": "SACILE",
+      "type": "One or more named individuals or families",
+      "direct": "6.04",
+      "total": "n.a.",
+      "world_compliance": "No"
+    },
+    {
+      "full_name": "MR PAOLO CASATI",
+      "bvdid": "ITPPCSTPLA45H11G224G",
+      "uci": "P081469411",
+      "country": "IT",
+      "city": "PADOVA",
+      "type": "One or more named individuals or families",
+      "direct": "5.16",
+      "total": "n.a.",
+      "world_compliance": "Yes"
+    },
+    {
+      "full_name": "MR ALESSANDRO FINCO",
+      "bvdid": "ITPPFNCLSN69T16G224N",
+      "uci": "P014356901",
+      "country": "IT",
+      "city": "",
+      "type": "One or more named individuals or families",
+      "direct": "5.00",
+      "total": "n.a.",
+      "world_compliance": "No"
+    },
+    {
+      "full_name": "MRS ANNA NOEMI CAMILOTTI",
+      "bvdid": "ITPPCMLNNM48P44L551Y",
+      "uci": "P081469413",
+      "country": "IT",
+      "city": "PADOVA",
+      "type": "One or more named individuals or families",
+      "direct": "2.86",
+      "total": "n.a.",
+      "world_compliance": "No"
+    },
+    {
+      "full_name": "MR DINO ROSSI",
+      "bvdid": "ITPPRSSDNI45L08F962N",
+      "uci": "P071182561",
+      "country": "IT",
+      "city": "PADOVA",
+      "type": "One or more named individuals or families",
+      "direct": "2.50",
+      "total": "n.a.",
+      "world_compliance": "No"
+    },
+    {
+      "full_name": "MR CARLO ALIPRANDI",
+      "bvdid": "ITPPLPRCRL65T01L407P",
+      "uci": "P007342290",
+      "country": "IT",
+      "city": "ODERZO",
+      "type": "One or more named individuals or families",
+      "direct": "2.14",
+      "total": "n.a.",
+      "world_compliance": "No"
+    },
+    {
+      "full_name": "MR ANDREA SARROCCO",
+      "bvdid": "ITPPSRRNDR69S03H501H",
+      "uci": "P130403949",
+      "country": "IT",
+      "city": "ABANO TERME",
+      "type": "One or more named individuals or families",
+      "direct": "1.50",
+      "total": "n.a.",
+      "world_compliance": "No"
+    }
+  ],
+  "limit": 10
+}
